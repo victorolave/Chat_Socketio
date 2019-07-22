@@ -1,4 +1,4 @@
-# Chat in Real Time with Socket.IO
+# Chat in Real Time with Socket.IO 
 
 This is a example of the use of the library Socket.IO in the dev of a real time chat for a web app.
 
